@@ -11,7 +11,6 @@ public class Q10findInInfiniteArray {
         System.out.println(findSmallToBig(arr, target));
     }
 
-
     static int findSmallToBig(int[] arr, int target){
         // first find the range
         // first find with a box of size =  2
