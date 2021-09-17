@@ -29,7 +29,6 @@ public class Q4ReverseSwapArray {
         }
 
     }
-
     static void swap(int[] arr, int index1, int index2) {
         
         int temp = arr[index1];
